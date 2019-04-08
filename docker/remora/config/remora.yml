@@ -1,0 +1,5 @@
+plugin:
+  servicemetrics:
+    demo:
+      sample:
+        command: sh /work/demo.sh
